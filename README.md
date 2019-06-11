@@ -1,4 +1,4 @@
-# SimplexSolver
+# Simplex Solver
 An implementation of the simplex algorithm for solving linear programs
 
 ## Input format
